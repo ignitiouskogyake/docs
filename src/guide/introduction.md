@@ -112,7 +112,7 @@ export default {
 
 <style scoped>
 button {
-  font-weight: bold;
+  font-weight: italics;
 }
 </style>
 ```
